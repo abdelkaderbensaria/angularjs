@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>deploymen</id>
             <name>Internal Releases</name>
             <url>http://localhost:8081/nexus/content/repositories/releases/</url>
         </repository>
